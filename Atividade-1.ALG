@@ -1,17 +1,17 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 05/09/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    nA:inteiro
    nB:inteiro
    nC:inteiro
    soma:inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreva("A:")
    leia(nA)
 
@@ -24,9 +24,9 @@ Inicio
    soma<- nA + nB
    
    se(soma > nC)entao
-   escreva("A + B é maior que C ")
+   escreva("A + B Ã© maior que C ")
    senao
-   escreva("A + B é menor que C ")
+   escreva("A + B Ã© menor que C ")
    fimse
 
 
