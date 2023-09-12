@@ -1,11 +1,11 @@
 Algoritmo "Atividade 9"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 06/09/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    emprestimoT: real
    rendaMensal: real
    valorPrestacao: real
@@ -16,8 +16,8 @@ Var
 Inicio
 
 
-   //Parte operada pelo Usúario.
-   //renda mensal; o valor total do empréstimo solicitado; prestações desejadas
+   //Parte operada pelo UsÃºario.
+   //renda mensal; o valor total do emprÃ©stimo solicitado; prestaÃ§Ãµes desejadas
    escreval("Emprestimos ")
    escreval("")
    escreval("")
@@ -40,7 +40,7 @@ Inicio
 
    //calculos
    se(emprestimoT < emprestimo) ou (prestacao < prestacao) entao
-   escreval("Emprestimo não Concedido")
+   escreval("Emprestimo nÃ£o Concedido")
    senao
    escreval("Emprestimo Concedido")
    fimse
