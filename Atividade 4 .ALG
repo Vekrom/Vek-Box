@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 06/09/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 morangokg:real
 macakg:real
 macapreco:real
@@ -20,7 +20,7 @@ Inicio
    escreval("quantide de kg de morango")
    leia(morangokg)
 
-   escreval("quantidade de kg de macã")
+   escreval("quantidade de kg de macÃ£")
    leia(macakg)
 
    se morangokg <=5 entao
